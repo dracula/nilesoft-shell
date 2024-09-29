@@ -22,7 +22,7 @@ theme
 		text
 		{
 			normal = #F8F8F2         // Dracula foreground color, off-white: #F8F8F2, cyan: #8BE9FD
-			select = #8BE9FD         // Same for selected text
+			select = #50FA7B         // Same for selected text
 			normal-disabled = #6272A4 // Muted comment color for disabled items
 			select-disabled = #6272A4 // Muted comment color for disabled selected items
 		}
@@ -30,7 +30,7 @@ theme
 		back
 		{
 			normal = #282A36         // Background color for normal items
-			select = #44475A         // Dracula current line color for selected items (slightly brighter)
+			select = #FF79C6         // Dracula current line color for selected items (slightly brighter)
 			select-disabled = #313244 // Darker shade for disabled selected items
 		}
 
@@ -38,9 +38,9 @@ theme
 		padding
 		{
 			left = 12
-			top = 3
+			top = 2
 			right = 12
-			bottom = 3
+			bottom = 2
 		}
 
 		// Margin for spacing between items
@@ -57,7 +57,7 @@ theme
 	{
 		size = 20              // Font size
 		name = "Segoe UI Variable Text"  // Font type
-		weight = 2             // Font weight (normal/bold)
+		weight = 5             // Font weight (normal/bold)
 		italic = 0             // Italic off
 	}
 
