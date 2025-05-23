@@ -14,6 +14,8 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/nilesoft-
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Open the Nilesoft Shell installation directory (the path is determined during installation, default is `C:\Program Files\Nilesoft Shell\`);
+2. Copy `theme.nss` to the `imports` folder;
+3. Open Nilesoft Shell and click `Restart Explorer`.
+
+You can refer to the [Nilesoft Shell Documentation](https://nilesoft.org/docs) for more information.
